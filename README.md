@@ -8,7 +8,7 @@ This is a simple expense tracker built with Flask and SQLite. It allows users to
 pip install Flask
 
 1. Clone the repository:
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Alex-King-1998/FlaskExpenseTracker.git
 
 2. Navigate into the project directory:
 cd expense-tracker
